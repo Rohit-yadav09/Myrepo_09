@@ -1,0 +1,40 @@
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+
+Semester: I
+Subject: Fundamentals of Computer Science Total theory periods: 40
+Total marks in End Semester Exam: 100 Minimum no. of Class tests to be conducted: 02
+
+Branch: Computer Application Subject Code: 5021175(021) Total Tutorial periods: 10
+
+
+
+
+
+UNIT-I Introduction to Computer and Hardware: Introduction to components of a computer system (disks, memory, processor, where a program is stored and executed, operating system, compilers etc) Organization of computers, Input and output devices, Storage devices and file organization system. Concept of Data and Information, Data processing, History of Computers.
+
+UNIT-II Programming Concepts: Programming Languages. Introduction to Programming, Idea of Algorithm: Steps to solve logical and numerical problems. Representation of Algorithm: Flowchart, Pseudo code and Source code with examples. Syntax and Logical Errors in compilation, object and executable code
+
+UNIT-III Data Representation and Digital Components: Number system (decimal, BCD, octal, hexadecimal) and conversions, r and r-1's complement, Fixed and Floating point representation, Binary codes: Excess-3, ASCII, EBCDIC, Error detection codes. Boolean Algebra, Map simplification K-Map, Logic Gates.
+
+UNIT-IV Combinational Circuit: Half and Full Adder, Decoder and Multiplexer; Sequential Circuit: Flip-Flop (SR, D, JK, Master-Slave), Registers, Computer registers. Counter, Register Transfer Language (RTL) and Micro-operation : Arithmetic, Logic and Shift micro operation Instruction code.
+
+UNIT-V Principles of Computer Design: Computer instructions, Timing and control, Instruction Cycle and Interrupt Cycle, Memory reference instructions, Input-output and interrupt, Design of basic computer , Instruction format, Addressing modes.
+
+Text Books:
+1. Computers Today, S.K. Basadra, Galgotia Publication.2nd edition.
+2. Internet for Every One, Alexis Leon and Mathews Leon, Tech World.2008 print.
+3. Computer System Architecture, Morris Mano ,PHI, 3rd Edition)
+4. Computer Organization and Architecture, William Stalling (PHI), 2000.
+
+Reference Books:
+I. Introduction to Computers, P.K. Sinha ,BPB Publication, 6th edition.
+2. Fundamentals of Computers, V. Rajaraman, Prentice Hall oflndia,4th edition
+3. Computer organization and Architecture, J.P. Hayes (TMH), 3rd Edition.
+4. Digital Computer Logic Design , Morris Mano ,PHI,3rd Edition
+5. Computer System Architecture and organization, Dr.M. Usha, T. S. Shrikant, Wiley publication.
+
+
+
+
+6 https://www.sanfoundry.com/k-map-karnaugh-map-method/#1
